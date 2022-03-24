@@ -1,0 +1,31 @@
+{
+  "name": "grupo-estudo-8-gama-academy",
+  "version": "0.1.0",
+  "description": "Repository dedicated to exemplary concepts about Stacks, and Queues Linked Lists and Doubly Linked Lists in the study group created by @danillo-ao and @victormanuel-araujo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcbombardelli/grupo-estudo-8-gama-academy.git"
+  },
+  "keywords": [
+    "stack",
+    "queue",
+    "linked",
+    "list"
+  ],
+  "author": "JC Bombardelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcbombardelli/grupo-estudo-8-gama-academy/issues"
+  },
+  "homepage": "https://github.com/jcbombardelli/grupo-estudo-8-gama-academy#readme",
+  "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
